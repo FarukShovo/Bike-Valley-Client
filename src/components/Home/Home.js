@@ -1,4 +1,5 @@
 import React from "react";
+import { Carousel } from "react-bootstrap";
 
 import Gallery from "../Gallery/Gallery";
 import Products from "../Products/Products";
@@ -10,11 +11,48 @@ import "./Home.css";
 const Home = () => {
   return (
     <div>
+      <Carousel>
+        <Carousel.Item>
+          <img
+            className="d-block w-100"
+            src="https://i.ibb.co/q1W6bRW/huracan-evo-exterior-right-front-three-quarter-2.png"
+            alt="First slide"
+          />
+          <Carousel.Caption>
+            <h3>First slide label</h3>
+            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
+          <img
+            className="d-block w-100"
+            src="https://wallpaperaccess.com/full/294788.jpg"
+            alt="Second slide"
+          />
+
+          <Carousel.Caption>
+            <h3>Second slide label</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
+          <img
+            className="d-block w-100"
+            src="https://i.ibb.co/cT0d0YG/gate-family-hero-01-1.png"
+            alt="Third slide"
+          />
+
+          <Carousel.Caption>
+            <h3>Third slide label</h3>
+            <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+          </Carousel.Caption>
+        </Carousel.Item>
+      </Carousel>
       {" "}
       <section className="about" id="about">
         <div className="row">
           <div className="image">
-            <img src="https://storage.googleapis.com/kormo_business_icons/employer-98b9a7b5-246d-48d3-ba93-179659c9f715/logo.png?$v=1617338782629" alt="" />
+            <img src="https://thumbs.dreamstime.com/b/car-sale-logo-template-design-vector-eps-82119214.jpg" alt="" />
           </div>
 
           <div className="content">

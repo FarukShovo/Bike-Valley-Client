@@ -204,7 +204,7 @@ const Footer = () => {
       </div>
 
       <div className="credit">
-        all rights reserved by bike-valley @2022
+        all rights reserved by omar faruk 法明 @2022
       </div>
     </section>
   );

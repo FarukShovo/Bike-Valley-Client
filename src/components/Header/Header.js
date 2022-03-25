@@ -3,8 +3,9 @@ import { Container, Nav, Navbar } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import useAuth from "../../Hooks/useAuth";
 import "./Header.css";
-import { FcRadarPlot, FcLinux } from "react-icons/fc";
+import { AiFillCar } from "react-icons/ai";
 import { BiCycling } from "react-icons/bi";
+import { FaCar, FaTruckMonster } from "react-icons/fa";
 
 const Header = () => {
   const { user, logOut } = useAuth();
@@ -19,7 +20,7 @@ const Header = () => {
       >
         <Container>
           <Navbar.Brand className="text-black" href="/home">
-            <FcRadarPlot></FcRadarPlot><FcLinux></FcLinux><BiCycling></BiCycling> Bike VaLLeY <span>.</span>
+            <FaTruckMonster></FaTruckMonster><BiCycling></BiCycling> Car Haven <FaCar></FaCar> <AiFillCar></AiFillCar> <span></span>
           </Navbar.Brand>
           <Navbar.Toggle />
           <Navbar.Collapse className="justify-content-end">

@@ -18,11 +18,11 @@ const Gallery = () => {
         <div className="box-container">
           <div className="box">
             <img
-              src="https://www.motorcyclevalley.com/images/media/01-Bajaj-Discover-125.jpg"
+              src="https://i.ytimg.com/vi/dip_8dmrcaU/maxresdefault.jpg"
               alt=""
             />
             <div className="content">
-              <h3>Super bike</h3>
+              <h3>Super Car</h3>
 
               <Link to="#" className="btn">
                 see more
@@ -32,7 +32,7 @@ const Gallery = () => {
 
           <div className="box">
             <img
-              src="https://www.rushlane.com/wp-content/uploads/2021/05/royal-enfield-classic-350-sales-fy-2021.jpg"
+              src="https://cdn.motor1.com/images/mgl/8e8Mo/s1/most-expensive-new-cars-ever.webp"
               alt=""
             />
             <div className="content">
@@ -45,7 +45,7 @@ const Gallery = () => {
           </div>
           <div className="box">
             <img
-              src="https://static.wixstatic.com/media/9067c9_b8a2abf786f94e84876c0b0f7912cc89~mv2.jpg/v1/fit/w_2500,h_1330,al_c/9067c9_b8a2abf786f94e84876c0b0f7912cc89~mv2.jpg"
+              src="https://www.remaxdoors.com/hubfs/2015_images/Blogging/new_car_showroom.jpg"
               alt=""
             />
             <div className="content">
@@ -58,7 +58,7 @@ const Gallery = () => {
           </div>
           <div className="box">
             <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ90hVNogkhuiQAaFSL250WAbv6WQktxJuVg&usqp=CAU"
+              src="https://cdn.motor1.com/images/mgl/2PgYn/s3/ferrari-laferrari.jpg"
               alt=""
             />
             <div className="content">
@@ -71,7 +71,7 @@ const Gallery = () => {
           </div>
           <div className="box">
             <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RAihIvFJmUw_p_gY7y4RUmVIEHoXz1rl1w&usqp=CAU"
+              src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2634-genesisunveilsg90exteriorimages-1638281750.jpg"
               alt=""
             />
             <div className="content">
@@ -84,7 +84,7 @@ const Gallery = () => {
           </div>
           <div className="box">
             <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgH3jYwKbqGUfQdMrYomWdXNWqcRnrEeCq5g&usqp=CAU"
+              src="https://www.focus2move.com/wp-content/uploads/2020/01/Tesla-Roadster-2020-1024-03.jpg"
               alt=""
             />
             <div className="content">
@@ -97,7 +97,7 @@ const Gallery = () => {
           </div>
           <div className="box">
             <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuqKiLVjas5NXTp3TPbId8tAOyiQHBw-kA8A&usqp=CAU"
+              src="https://www.cupraofficial.com/content/global/cupra-website/en/concept-cars/urbanrebel/_jcr_content/article/richtextwithfloating/singlevideoimage.resizedViewPort.noscale.assetRootXL.jpg"
               alt=""
             />
             <div className="content">
@@ -110,7 +110,7 @@ const Gallery = () => {
           </div>
           <div className="box">
             <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI_tK_Mhk0ZI_VZMmrdMw34XZUdOcaSWGF3g&usqp=CAU"
+              src="https://img.etimg.com/thumb/width-640,height-480,imgsize-118786,resizemode-1,msid-80420666/wealth/spend/best-cars-for-different-budgets-to-buy-in-2021/covcar.jpg"
               alt=""
             />
             <div className="content">
@@ -123,7 +123,7 @@ const Gallery = () => {
           </div>
           <div className="box">
             <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDa2DwaJkY9QPTP5y6kBmuF1g0uUAD8dGKlg&usqp=CAU"
+              src="https://www.motortrend.com/uploads/sites/5/2020/10/2021-SSC-Tuatara-Reruns-Record-Car-Front-3.4.jpg?fit=around%7C875:492"
               alt=""
             />
             <div className="content">
@@ -136,7 +136,7 @@ const Gallery = () => {
           </div>
           <div className="box">
             <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuO-ItAEeIv9CMgfLuT7wqN4Et0AjTPEOhMQ&usqp=CAU"
+              src="https://cdn.wealthygorilla.com/wp-content/uploads/2020/05/Most-Expensive-Cars-McLaren-Speedtail.jpg"
               alt=""
             />
             <div className="content">
@@ -149,7 +149,7 @@ const Gallery = () => {
           </div>
           <div className="box">
             <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDSrabuXPpsDgjDCRYkNW_DEaiurcc8g-9zA&usqp=CAU"
+              src="https://cdn1.buyacar.co.uk/sites/buyacar/files/aston-martin-dbx-1_0.jpg"
               alt=""
             />
             <div className="content">
@@ -162,7 +162,7 @@ const Gallery = () => {
           </div>
           <div className="box">
             <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzacpnA2TX-je4afG0p_IfmjULEqu1MH0W5g&usqp=CAU"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSClg8Jv0CIQXDk7hlr1b9X_T5zrK-YzQBA_w&usqp=CAU"
               alt=""
             />
             <div className="content">
@@ -175,7 +175,7 @@ const Gallery = () => {
           </div>
           <div className="box">
             <img
-              src="https://www.mototechindia.com/wp-content/uploads/2021/04/highest-cc-bike-in-the-world.jpg"
+              src="https://media.gq-magazine.co.uk/photos/600fea2c3cc0378ecd860823/master/pass/20200127-Car-Awards-08HP.jpg"
               alt=""
             />
             <div className="content">
@@ -188,7 +188,7 @@ const Gallery = () => {
           </div>
           <div className="box">
             <img
-              src="https://images.unsplash.com/photo-1598209279122-8541213a0387?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8a3RtJTIwYmlrZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+              src="https://www.cadillac.com/content/dam/cadillac/na/us/english/index/homepage/homepage-scroller/m/homepage-masthead-lyriq-front-m-v3.jpg?imwidth=960"
               alt=""
             />
             <div className="content">
