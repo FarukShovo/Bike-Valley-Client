@@ -87,16 +87,16 @@ const LogIn = () => {
               </button>
             )}
             <br />
-            <Link
+            <button
               style={{
                 textDecoration: "none",
-                color: "#000",
+                color: "black",
                 marginTop: "10px",
               }}
               to="/register"
             >
               New User ? Please Register
-            </Link>
+            </button>
           </div>
         </div>
       </div>
