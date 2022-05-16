@@ -140,7 +140,7 @@ const Footer = () => {
               {" "}
               <FaEnvelope></FaEnvelope>{" "}
             </i>{" "}
-            bike.vally@hotmail.com{" "}
+            car.haven@hotmail.com{" "}
           </Link>
           <Link to="/home">
             {" "}
@@ -148,7 +148,7 @@ const Footer = () => {
               {" "}
               <FcVoicemail></FcVoicemail>
             </i>{" "}
-            bike.vally@hotmail.com{" "}
+            car.haven@hotmail.com{" "}
           </Link>
           <Link to="/home">
             {" "}
