@@ -39,7 +39,7 @@ const Speciality = () => {
           <i className="fas fa-hotel">
             <FcEngineering></FcEngineering>
           </i>
-          <h3>exclusive bike</h3>
+          <h3>exclusive Car</h3>
           <p>Choose from our huge collections</p>
         </div>
         <div className="box">
@@ -62,7 +62,7 @@ const Speciality = () => {
             <FcProcess></FcProcess>
           </i>
           <h3>eco friendly</h3>
-          <p>we provide eco friendly bikes</p>
+          <p>we provide eco friendly cars</p>
         </div>
         <div className="box">
           <i className="fas fa-plane">
@@ -101,7 +101,7 @@ const Speciality = () => {
           </i>
           <h3>Assembling</h3>
           <p>
-            Our expert team is always ready to assemble your modified bike for new test!
+            Our expert team is always ready to assemble your modified car for new test!
           </p>
         </div>
         <div className="box">
@@ -116,7 +116,7 @@ const Speciality = () => {
             <FcTreeStructure></FcTreeStructure>
           </i>
           <h3>Serviceing</h3>
-          <p>You can easily solve your bike problems.</p>
+          <p>You can easily solve your car's problems.</p>
         </div>
         <div className="box">
           <i className="fas fa-hiking">

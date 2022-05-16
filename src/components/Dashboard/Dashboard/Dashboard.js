@@ -38,9 +38,9 @@ const Dashboard = () => {
         <div className="row">
           <div className="col-md-3 ">
             <div className="dashboard">
-              <h2 style={{ margin: 50, color: "red" }} className="text-center">
+              <h1 style={{ margin: 50, color: "white" }} className="text-center">
                 Dashboard
-              </h2>
+              </h1>
               {!admin && (
                 <div>
                   <Link to={`${url}/myOrder`}>

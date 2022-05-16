@@ -201,6 +201,7 @@ section:nth-child(even) {
   grid-template-columns: repeat(auto-fit, minmax(27rem, 1fr));
   gap: 2rem;
 }
+
 .services .box-container .box {
   background: rgb(177, 169, 169);
   border-radius: 0.5rem;
@@ -208,16 +209,19 @@ section:nth-child(even) {
   border: var(--border);
   padding: 2.5rem;
 }
+
 .services .box-container .box i {
   color: var(--green);
   font-size: 5rem;
   padding-bottom: 0.5rem;
 }
+
 .services .box-container .box h3 {
   color: var(--black);
   font-size: 2.5rem;
   padding: 1rem 0;
 }
+
 .services .box-container .box p {
   color: var(--light-color);
   font-size: 1.4rem;
@@ -534,7 +538,7 @@ section:nth-child(even) {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));
   gap: 2rem;
-  background-color: rgb(186, 133, 179);
+  background-image: linear-gradient(red, yellow);
 }
 
 .footer .box-container .box h3 {

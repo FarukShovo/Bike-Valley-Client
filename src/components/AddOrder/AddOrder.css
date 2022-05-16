@@ -5,6 +5,8 @@
 
 .row-container {
   display: flex;
-  background-color: rgb(190, 175, 175);
+  background-image: url("https://i.pinimg.com/736x/6a/1b/e2/6a1be245db7487e9c5eda0877073c33f.jpg");
+  background-repeat: no-repeat;
+
   margin: 30px;
 }

@@ -1,4 +1,6 @@
 .login {
-  background-color: rgb(113, 151, 102);
+  background-image: url("https://cdn.britannica.com/83/195983-138-66807699/numbers-tiger-populations.jpg?w=800&h=450&c=crop");
+  background-repeat: no-repeat;
+  background-position: 50%;
   margin-top: 30px;
 }

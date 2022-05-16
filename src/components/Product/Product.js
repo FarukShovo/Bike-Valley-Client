@@ -15,8 +15,8 @@ const Product = (props) => {
           <h5>Description:{description}</h5>
           <h5>Price:{price}</h5>
 
-          <Link className="btn btn-danger" to={`/payment/${_id}`}>
-            Purchase now
+          <Link className="btn btn-danger" to={`/services/${_id}`}>
+            Purchase now!
           </Link>
         </div>
       </div>
